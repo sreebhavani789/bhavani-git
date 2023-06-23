@@ -1,2 +1,2 @@
 # bhavani-git
-this is time t learn the git
+this is time t learn the git the learning
